@@ -1,0 +1,284 @@
+{
+    "type": "FeatureCollection",
+    "name": "dzglbz",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::3857"
+        }
+    },
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 16976,
+                "LXBM": "G205000000",
+                "TYPE": "glbz",
+                "OFFSET": null,
+                "OFFSITE": null,
+                "MVALUE": 472147.0,
+                "X": 13070975.428200001,
+                "Y": 4553631.6637000004,
+                "LXMC": "山海关-深圳",
+                "UPORDOWN": "DOWN",
+                "BUSI_UUID": "6223cd7b73cb462c90e432d212a97ca9",
+                "RULEID": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13070975.428199999034, 4553631.663699999452]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 15871,
+                "LXBM": "G514000000",
+                "TYPE": "glbz",
+                "OFFSET": null,
+                "OFFSITE": null,
+                "MVALUE": 9707.0,
+                "X": 12985675.6765,
+                "Y": 4420379.6845000004,
+                "LXMC": "齐河-邯郸",
+                "UPORDOWN": "DOWN",
+                "BUSI_UUID": "e8d0084d8a734f7eb8fec0997f71e42f",
+                "RULEID": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12985675.6765, 4420379.684500001370907]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 15872,
+                "LXBM": "G514000000",
+                "TYPE": "glbz",
+                "OFFSET": null,
+                "OFFSITE": null,
+                "MVALUE": 9613.0,
+                "X": 12985834.501700001,
+                "Y": 4420346.228,
+                "LXMC": "齐河-邯郸",
+                "UPORDOWN": "UP",
+                "BUSI_UUID": "6013a6b9e677450fb3cfd0add537dcac",
+                "RULEID": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12985834.501699998975, 4420346.228]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 15873,
+                "LXBM": "G514000000",
+                "TYPE": "glbz",
+                "OFFSET": null,
+                "OFFSITE": null,
+                "MVALUE": 9718.0,
+                "X": 12985762.8215,
+                "Y": 4420451.3753000004,
+                "LXMC": "齐河-邯郸",
+                "UPORDOWN": "UP",
+                "BUSI_UUID": "6d3084b2410e4584932029870ec527b4",
+                "RULEID": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12985762.821499999613, 4420451.375299997627735]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 18146,
+                "LXBM": "G309000000",
+                "TYPE": "glbz",
+                "OFFSET": null,
+                "OFFSITE": null,
+                "MVALUE": 465549.0,
+                "X": 12987208.782299999,
+                "Y": 4393141.0181,
+                "LXMC": "青岛-兰州",
+                "UPORDOWN": "UP",
+                "BUSI_UUID": "335069791ef431767d26526161ca8585",
+                "RULEID": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12987208.782299999148, 4393141.0181]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 15782,
+                "LXBM": "G308000000",
+                "TYPE": "glbz",
+                "OFFSET": null,
+                "OFFSITE": null,
+                "MVALUE": 557719.0,
+                "X": 12981538.4526,
+                "Y": 4413226.9858,
+                "LXMC": "文登-石家庄",
+                "UPORDOWN": "UP",
+                "BUSI_UUID": "8c370fbda93327490d8e3763c8f6369b",
+                "RULEID": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12981538.452599998564, 4413226.985799998044968]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 15790,
+                "LXBM": "G308000000",
+                "TYPE": "glbz",
+                "OFFSET": null,
+                "OFFSITE": null,
+                "MVALUE": 558467.0,
+                "X": 12980595.2524,
+                "Y": 4413241.4702000003,
+                "LXMC": "文登-石家庄",
+                "UPORDOWN": "DOWN",
+                "BUSI_UUID": "68bab3aad3afa7d1a659c3594f56bc95",
+                "RULEID": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12980595.252399999648, 4413241.470200002193451]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 18149,
+                "LXBM": "G309000000",
+                "TYPE": "glbz",
+                "OFFSET": null,
+                "OFFSITE": null,
+                "MVALUE": 466129.0,
+                "X": 12986508.395300001,
+                "Y": 4392964.1810999997,
+                "LXMC": "青岛-兰州",
+                "UPORDOWN": "UP",
+                "BUSI_UUID": "2c30ba8f2d26616a8962bf1212d4d84f",
+                "RULEID": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12986508.3953, 4392964.181100003421307]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 18148,
+                "LXBM": "G309000000",
+                "TYPE": "glbz",
+                "OFFSET": null,
+                "OFFSITE": null,
+                "MVALUE": 466002.0,
+                "X": 12986661.105900001,
+                "Y": 4393003.2799000004,
+                "LXMC": "青岛-兰州",
+                "UPORDOWN": "UP",
+                "BUSI_UUID": "df8197051d0996d8b48577c55731387b",
+                "RULEID": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12986661.1059, 4393003.279899999499]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 15779,
+                "LXBM": "G308000000",
+                "TYPE": "glbz",
+                "OFFSET": null,
+                "OFFSITE": null,
+                "MVALUE": 557415.0,
+                "X": 12981906.0208,
+                "Y": 4413124.1002000002,
+                "LXMC": "文登-石家庄",
+                "UPORDOWN": "UP",
+                "BUSI_UUID": "9406f1f81ec2390faef531324dd06371",
+                "RULEID": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12981906.020799998194, 4413124.100199997425079]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 15780,
+                "LXBM": "G308000000",
+                "TYPE": "glbz",
+                "OFFSET": null,
+                "OFFSITE": null,
+                "MVALUE": 557467.0,
+                "X": 12981811.4312,
+                "Y": 4413035.747,
+                "LXMC": "文登-石家庄",
+                "UPORDOWN": "DOWN",
+                "BUSI_UUID": "b7be2c98250e7c25096f274f5977e8af",
+                "RULEID": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12981811.4312, 4413035.747000001370907]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 15819,
+                "LXBM": "G308000000",
+                "TYPE": "glbz",
+                "OFFSET": null,
+                "OFFSITE": null,
+                "MVALUE": 565850.0,
+                "X": 12971579.6938,
+                "Y": 4414844.5253,
+                "LXMC": "文登-石家庄",
+                "UPORDOWN": "DOWN",
+                "BUSI_UUID": "4c58b098c182afa0939b263df202eb2e",
+                "RULEID": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12971579.693799998611, 4414844.5253000035882]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 9627,
+                "LXBM": "G340000000",
+                "TYPE": "glbz",
+                "OFFSET": null,
+                "OFFSITE": null,
+                "MVALUE": 255739.0,
+                "X": 12997259.274,
+                "Y": 4465911.5565,
+                "LXMC": "东营港-子长",
+                "UPORDOWN": "UP",
+                "BUSI_UUID": "0acc14f23d884949a7fc8fc9a47f1018",
+                "RULEID": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12997259.274, 4465911.556500002741814]
+            }
+        }
+    ]
+}
